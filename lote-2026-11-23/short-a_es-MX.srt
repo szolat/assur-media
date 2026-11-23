@@ -1,0 +1,38 @@
+1
+00:00:00,000 --> 00:00:04,168
+Antes de elegir un canal de drenaje,
+ubica a dónde va a salir el agua.
+
+2
+00:00:04,833 --> 00:00:08,776
+El diecinueve de noviembre, el
+Servicio Meteorológico Nacional
+
+3
+00:00:08,776 --> 00:00:12,783
+pronosticó de veinticinco a
+cincuenta milímetros para el sur de
+
+4
+00:00:12,783 --> 00:00:13,355
+Veracruz.
+
+5
+00:00:14,033 --> 00:00:18,582
+Ese pronóstico no dimensiona tu
+obra. Traza la salida del canal al
+
+6
+00:00:18,582 --> 00:00:22,648
+registro y revisa el nivel del
+receptor cuando recibe agua.
+
+7
+00:00:23,300 --> 00:00:27,525
+Si se llena, el agua puede
+respaldarse. Abre la Calculadora
+
+8
+00:00:27,525 --> 00:00:30,533
+Hidráulica de ASSUR para revisar el
+tramo.
