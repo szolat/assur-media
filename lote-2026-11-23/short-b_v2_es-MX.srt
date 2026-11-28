@@ -1,0 +1,45 @@
+1
+00:00:00,000 --> 00:00:03,653
+¿Vas a cotizar una cubierta con
+panel? No dejes el detalle del borde
+
+2
+00:00:03,653 --> 00:00:04,727
+para la instalación.
+
+3
+00:00:05,254 --> 00:00:08,202
+El dieciocho de noviembre, el
+Servicio Meteorológico Nacional
+
+4
+00:00:08,202 --> 00:00:11,295
+pronosticó rachas de setenta a
+noventa kilómetros por hora en el
+
+5
+00:00:11,295 --> 00:00:12,842
+Istmo y el Golfo de Tehuantepec.
+
+6
+00:00:13,386 --> 00:00:17,433
+Es contexto, no un valor de diseño.
+Señala los bordes y la separación
+
+7
+00:00:17,433 --> 00:00:21,478
+entre apoyos; con esos datos, el
+proyectista puede revisar cómo fijar
+
+8
+00:00:21,478 --> 00:00:22,006
+el panel.
+
+9
+00:00:22,534 --> 00:00:26,154
+Manda tu croquis a ASSUR para
+revisar la consulta de ISOCOP
+
+10
+00:00:26,154 --> 00:00:26,583
+cuatro.
